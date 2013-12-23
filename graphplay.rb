@@ -6,6 +6,7 @@ digraph do
   edge "Parent", "Child Two"
 
   save "sample", "png"
+  save "sample", "pdf"
 end
 
 
